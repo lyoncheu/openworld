@@ -6,3 +6,5 @@ print("New Python file")
 type(a)
 
 print("Hello world!")
+
+savings = 100
